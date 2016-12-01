@@ -1,0 +1,12 @@
+Package: MixedPoisson
+Type: Package
+Title: Mixed Poisson models
+Version: 2.0
+Date: 2016-11-24
+Author: Alicja Wolny-Dominiak and Michal Trzesiok
+Maintainer: Alicja Wolny-Dominiak <alicja.wolny-dominiak@ue.katowice.pl>
+Depends: gaussquad, Rmpfr, MASS
+Description: The estimation of the parameters in Mixed Poisson models. 
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2016-11-22 10:00:32 UTC; woali_uth5lyq
